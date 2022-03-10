@@ -1,6 +1,6 @@
 ## Welcome to WZ's website
 
-Hi! [editor on GitHub](https://github.com/WeiZHANG-mg/wz.github.io/edit/gh-pages/index.md) 
+Hi! [back](https://weizhang-mg.github.io/wz.github.io/) 
 
 
 ## Contact
