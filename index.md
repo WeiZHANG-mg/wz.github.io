@@ -2,11 +2,10 @@
 
 Hi! [editor on GitHub](https://github.com/WeiZHANG-mg/wz.github.io/edit/gh-pages/index.md) 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-## Markdown
+## Contact
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+email: wz.mcgill.ca
 
 ```markdown
 Syntax highlighted code block
